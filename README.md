@@ -1,8 +1,15 @@
 <h1 align="center">Hey 👋 I'm Kavidu</h1>
-<h3 align="center">2nd Year Undergraduate Software Engineering Student</h3>
 
 <p align="center">
-  University of Kelaniya 🎓 | MERN Stack Learner 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergraduate;MERN+Stack+Learner;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  🎓 University of Kelaniya &nbsp; | &nbsp; 🚀 MERN Stack Learner
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavidu717&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -55,6 +62,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" />
+</div>
+
+---
+
+<h2 align="center">📊 My Statistics</h2>
+
+<div align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=kavidu717&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavidu717&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kavidu717&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
