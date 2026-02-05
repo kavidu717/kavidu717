@@ -46,7 +46,7 @@
     <p>💬 Ask me about <strong>React, JavaScript, PHP, MySQL, MongoDB</strong></p>
   </li>
   <li>
-    <p>📫 Reach me at <strong><a href="mailto:your-email@gmail.com">your-email@gmail.com</a></strong></p>
+    <p>📫 Reach me at <strong><a href="mailto:dushmanthakavidu143@gmail.com">your-email@gmail.com</a></strong></p>
   </li>
 </ul>
 <!-- Intro end -->
