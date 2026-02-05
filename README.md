@@ -52,21 +52,14 @@
 <!-- Intro end -->
 
 <!-- stats start -->
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=kavidu717&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-      <br><br>
-      <img 
-        src="https://streak-stats.demolab.com?user=kavidu717&theme=tokyonight" />
-    </td>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavidu717&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavidu717&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kavidu717&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavidu717&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 <!-- stats end -->
 
 <!-- trophy start -->
