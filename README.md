@@ -1,118 +1,121 @@
-<!-- horizontal divider (gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- h1 without bottom border -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Kavidu Dushmantha</h1>
-    </summary>
-  </ul>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontAlign=50&fontAlignY=78&stroke=FFFFFF&strokeWidth=11&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<!-- snake animation -->
+###
+
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/kavidu717/kavidu717/output/github-contribution-grid-snake.svg" 
-    alt="snake animation">
+  <img height="171" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<!-- h2 subtitle -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-        Learning • Building • Improving 🚀
-      </h2>
-    </summary>
-  </ul>
-</div>
+###
 
-<!-- Intro start -->
-<ul>
-  <li>
-    <p>🎓 Software Engineering Undergraduate at <strong>University of Kelaniya</strong></p>
-  </li>
-  <li>
-    <p>💻 Currently working with <strong>React, Node.js, MongoDB, MySQL, PHP</strong></p>
-  </li>
-  <li>
-    <p>🌱 Currently learning <strong>MERN Stack & modern full-stack development</strong></p>
-  </li>
-  <li>
-    <p>🧠 Interested in <strong>Full-Stack Development, Databases & System Design</strong></p>
-  </li>
-  <li>
-    <p>💬 Ask me about <strong>React, JavaScript, PHP, MySQL, MongoDB</strong></p>
-  </li>
-  <li>
-    <p>📫 Reach me at <strong><a href="mailto:dushmanthakavidu143@gmail.com">dushmanthakavidu143@gmail.com</a></strong></p>
-  </li>
-</ul>
-<!-- Intro end -->
-
-<!-- stats start -->
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavidu717&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kavidu717&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavidu717&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-<!-- stats end -->
-
-<!-- trophy start -->
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kavidu717&theme=radical&row=1&column=7&no-bg=true" 
-    width="84%" />
-</div>
-<!-- trophy end -->
-
-<!-- Technologies -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2>
-    </summary>
-  </ul>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
 </div>
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,java,mysql,mongodb,git,github,bootstrap,tailwind,vscode,figma&perline=8" />
-</p>
+###
 
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Connect With Me 🤝</h2>
-    </summary>
-  </ul>
+<h1 align="center">Hey There</h1>
+
+###
+
+<h3 align="left">👩‍💻  Undergraduate Software Engineering Student of University Of Kelaniya</h3>
+
+###
+
+<p align="left">👋 I’m Kavidu Dushmantha from Sri Lanka<br>🎓 I’m an undergraduate Software Engineering student<br>🔭 I’m currently working on academic projects and improving my coding skills<br>📚 I’m currently learning Web Development, Databases, and Software Engineering fundamentals<br>⚡ In my free time, I explore new technologies, practice coding, and learn from online tutorials</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+###
 
-<!-- profile visit count -->
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=kavidu717&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<!-- horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+###
 
-<p align="center">
-✨ Always learning • Always building • Always improving ✨
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kavidu717&theme=transparent" alt="GitHub Streak" /></a>
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="99" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="99" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="99" height="40" alt="facebook logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
