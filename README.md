@@ -115,4 +115,4 @@
 ✨ Always learning • Always building • Always improving ✨
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kavidu%20717&theme=transparent" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kavidu717&theme=transparent" alt="GitHub Streak" /></a>
