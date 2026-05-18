@@ -1,118 +1,102 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontAlign=50&fontAlignY=78&stroke=FFFFFF&strokeWidth=11&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&section=header&text=Kavidu%20Dushmantha&fontSize=45&fontColor=ffffff&theme=cobalt" width="100%" alt="Header Banner" />
+</p>
 
-###
+<h1 align="center">Software Engineering Undergraduate</h1>
 
-<div align="center">
-  <img height="171" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
+## 👤 About Me
 
-###
+Hello, I'm **Kavidu Dushmantha**, a 3rd-year Software Engineering undergraduate at the **University of Kelaniya** focused on building clean, scalable, and modern web applications.
 
-<h1 align="center">Hey There</h1>
+* 🚀 **Full-Stack Developer** passionate about crafting seamless user experiences.
+* 🎨 **UI/UX Enthusiast** with an eye for clean and functional designs.
+* 🛠️ Focused on performance, backend architecture, and writing maintainable code.
+* ⚡ Always learning new technologies and solving real-world development problems.
 
-###
+---
 
-<h3 align="left">👩‍💻  Undergraduate Software Engineering Student of University Of Kelaniya</h3>
+## 🛠️ Technologies & Tools
 
-###
+### 🌐 Core & Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c" />
+</p>
 
-<p align="left">👋 I’m Kavidu Dushmantha from Sri Lanka<br>🎓 I’m an undergraduate Software Engineering student<br>🔭 I’m currently working on academic projects and improving my coding skills<br>📚 I’m currently learning Web Development, Databases, and Software Engineering fundamentals<br>⚡ In my free time, I explore new technologies, practice coding, and learn from online tutorials</p>
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap" />
+</p>
 
-###
+### 🧰 Databases & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 📊 GitHub Status
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavidu717&show_icons=true&theme=tokyonight&count_private=true" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavidu717&layout=compact&theme=tokyonight" height="190" alt="Top Languages" />
+</p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🎯 Current Focus
 
-###
+* 💻 Developing production-ready **MERN stack applications**
+* 🐳 Mastering **Docker & containerized deployment** workflows
+* ⚙️ Architecting robust **Backend architectures & RESTful APIs** (Java Spring Boot / Node.js)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 🤝 Team & Work Style
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
+* 🌿 Advanced **Git & GitHub collaborative workflows**
+* ✨ Standardizing **clean, maintainable, and modular code** practices
+* 🔗 Seamless **Frontend + Backend API integration**
+* ☁️ Exploring automated DevOps pipelines and cloud deployments
 
-###
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="99" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="99" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="99" height="40" alt="facebook logo"  />
-</div>
+## 🔥 Contribution Streak
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kavidu717&theme=tokyonight&mode=daily" height="220" alt="GitHub Streak Stats" />
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📈 Contribution Graph
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavidu717&theme=tokyonight" width="100%" alt="Contribution Graph" />
+</p>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kavidu717.kavidu717" alt="Visitor Badge" />
+</p>
