@@ -57,15 +57,14 @@ Hello, I'm **Kavidu Dushmantha**, a 3rd-year Software Engineering undergraduate 
 
 ---
 
-## 📊 GitHub Status
+
 
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavidu717&show_icons=true&theme=tokyonight&count_private=true" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavidu717&layout=compact&theme=tokyonight" height="190" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavidu717&theme=tokyonight" height="190" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavidu717&theme=tokyonight" height="190" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
