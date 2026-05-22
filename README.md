@@ -17,7 +17,6 @@
 Hello, I'm **Kavidu Dushmantha**, a 3rd-year Software Engineering undergraduate at the **University of Kelaniya** focused on building clean, scalable, and modern web applications.
 
 * 🚀 **Full-Stack Developer** passionate about crafting seamless user experiences.
-* 🎨 **UI/UX Enthusiast** with an eye for clean and functional designs.
 * 🛠️ Focused on performance, backend architecture, and writing maintainable code.
 * ⚡ Always learning new technologies and solving real-world development problems.
 
@@ -82,7 +81,7 @@ Hello, I'm **Kavidu Dushmantha**, a 3rd-year Software Engineering undergraduate 
 * 🌿 Advanced **Git & GitHub collaborative workflows**
 * ✨ Standardizing **clean, maintainable, and modular code** practices
 * 🔗 Seamless **Frontend + Backend API integration**
-* ☁️ Exploring automated DevOps pipelines and cloud deployments
+
 
 ---
 
